@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c332855e-1472-4d27-ab03-26b600a6ba8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ImageHoster$ImageHosterApplication.ic" NAME="ImageHosterApplication Coverage Results" MODIFIED="1539263315139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ImageHoster.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z9XIqq6orulvyQGmU2wCTQSVMg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="imagere&#9;FILE&#9;file://E:/MVC_parallel/ImageHoster_solution_13/ImageHoster/src/main/java/ImageHoster/repository/ImageRepository.java&#10;imagec&#9;FILE&#9;file://E:/MVC_parallel/ImageHoster_solution_13/ImageHoster/src/main/java/ImageHoster/controller/ImageController.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541429731467" />
+    <property name="last_opened_file_path" value="E:/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6643678" />
+  </component>
+  <component name="RunManager" selected="JUnit.HomeControllerTest">
+    <configuration name="CommentControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageHoster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageHoster.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ImageHoster.controller" />
+      <option name="MAIN_CLASS_NAME" value="ImageHoster.controller.CommentControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageHoster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageHoster.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ImageHoster.controller" />
+      <option name="MAIN_CLASS_NAME" value="ImageHoster.controller.HomeControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageHoster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageHoster.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ImageHoster.controller" />
+      <option name="MAIN_CLASS_NAME" value="ImageHoster.controller.ImageControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageControllerTest.showImage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageHoster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageHoster.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ImageHoster.controller" />
+      <option name="MAIN_CLASS_NAME" value="ImageHoster.controller.ImageControllerTest" />
+      <option name="METHOD_NAME" value="showImage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageHosterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ImageHoster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageHoster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ImageHoster.ImageHosterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HomeControllerTest" />
+        <item itemvalue="JUnit.CommentControllerTest" />
+        <item itemvalue="Spring Boot.ImageHosterApplication" />
+        <item itemvalue="JUnit.ImageControllerTest" />
+        <item itemvalue="JUnit.ImageControllerTest.showImage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c332855e-1472-4d27-ab03-26b600a6ba8c" name="Default Changelist" comment="" />
+      <created>1539235183787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539235183787</updated>
+      <workItem from="1539235189936" duration="57418000" />
+      <workItem from="1539586539353" duration="4058000" />
+      <workItem from="1539592211803" duration="4752000" />
+      <workItem from="1539599943659" duration="3076000" />
+      <workItem from="1539604436173" duration="3840000" />
+      <workItem from="1539611128185" duration="8029000" />
+      <workItem from="1539667499503" duration="9845000" />
+      <workItem from="1539682135271" duration="10293000" />
+      <workItem from="1540376691246" duration="6774000" />
+      <workItem from="1540389220874" duration="633000" />
+      <workItem from="1540797367319" duration="16339000" />
+      <workItem from="1541425509097" duration="2191000" />
+      <workItem from="1541430847431" duration="899000" />
+      <workItem from="1541482181542" duration="4602000" />
+      <workItem from="1584252209983" duration="1948000" />
+      <workItem from="1584274903951" duration="26361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="96" key="#Assign_Data_Sources" timestamp="1584362569071">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="320" y="96" key="#Assign_Data_Sources/0.23.1440.813@0.23.1440.813" timestamp="1584362569071" />
+    <state x="320" y="96" key="#Inspections" timestamp="1584362000063">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="320" y="96" key="#Inspections/0.23.1440.813@0.23.1440.813" timestamp="1584362000063" />
+    <state x="120" y="143" width="1200" height="573" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584367015786">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="120" y="143" width="1200" height="573" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.813@0.23.1440.813" timestamp="1584367015786" />
+    <state x="533" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1584372038312">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="533" y="125" key="#com.intellij.ide.util.MemberChooser/0.23.1440.813@0.23.1440.813" timestamp="1584372038312" />
+    <state width="1358" height="210" key="GridCell.Tab.0.bottom" timestamp="1584375324616">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584337960479" />
+    <state width="1358" height="210" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1584375324616" />
+    <state width="1358" height="210" key="GridCell.Tab.0.center" timestamp="1584375324615">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584337960475" />
+    <state width="1358" height="210" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1584375324615" />
+    <state width="1358" height="210" key="GridCell.Tab.0.left" timestamp="1584375324615">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584337960474" />
+    <state width="1358" height="210" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1584375324615" />
+    <state width="1358" height="210" key="GridCell.Tab.0.right" timestamp="1584375324616">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584337960476" />
+    <state width="1358" height="210" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1584375324616" />
+    <state width="1358" height="210" key="GridCell.Tab.1.bottom" timestamp="1584375324618">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584337960482" />
+    <state width="1358" height="210" key="GridCell.Tab.1.bottom/0.23.1440.813@0.23.1440.813" timestamp="1584375324618" />
+    <state width="1358" height="210" key="GridCell.Tab.1.center" timestamp="1584375324617">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584337960481" />
+    <state width="1358" height="210" key="GridCell.Tab.1.center/0.23.1440.813@0.23.1440.813" timestamp="1584375324617" />
+    <state width="1358" height="210" key="GridCell.Tab.1.left" timestamp="1584375324617">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584337960480" />
+    <state width="1358" height="210" key="GridCell.Tab.1.left/0.23.1440.813@0.23.1440.813" timestamp="1584375324617" />
+    <state width="1358" height="210" key="GridCell.Tab.1.right" timestamp="1584375324618">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584337960482" />
+    <state width="1358" height="210" key="GridCell.Tab.1.right/0.23.1440.813@0.23.1440.813" timestamp="1584375324618" />
+    <state width="1398" height="180" key="GridCell.Tab.2.bottom" timestamp="1584334922233">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584334922233" />
+    <state width="1398" height="180" key="GridCell.Tab.2.center" timestamp="1584334922231">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1584334922231" />
+    <state width="1398" height="180" key="GridCell.Tab.2.left" timestamp="1584334922230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1584334922230" />
+    <state width="1398" height="180" key="GridCell.Tab.2.right" timestamp="1584334922232">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1584334922232" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ImageHoster$ImageHosterApplication.ic" NAME="ImageHosterApplication Coverage Results" MODIFIED="1584332036026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ImageHoster.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ImageHoster</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6643678" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
